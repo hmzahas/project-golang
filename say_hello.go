@@ -1,5 +1,5 @@
 package projectgolang
 
 func SayHello() string {
-	return "Hello"
+	return "Hello world"
 }
